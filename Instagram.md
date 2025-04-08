@@ -5,7 +5,7 @@
 
 # Availability
 - **Apify Services are working**
-- **1. Server by MCP.so ** : `For fetching Posts using existing Chrome Login session`
+- **1. Server by MCP.so** : `For fetching Posts using existing Chrome Login session`
 - **2. API Scraper by Apify** : `Gets Profiles, Posts, Places and Hashtags From Instagram`
 - **3. DM MCP Server by Glama** : `Allows read and send direct messages`
 - **4. Analytics MCP Server** : `Provide Analytics , account management and content strategy Insights`
